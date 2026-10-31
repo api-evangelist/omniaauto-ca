@@ -64,5 +64,95 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-omniaauto-ca is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://omniaauto.ca/
+OmniaAuto provides Canadian vehicle listings data through a market data platform (MCP) and a RESTful API. It offers real-time inventory, VIN decoding, and market valuation across Canada, accessible via subscription. The service includes CSV snapshots, AI integration, and detailed pricing coverage, targeting developers, analysts, and automotive businesses.
+
+**Areas:** Company · Automotive · Data · API · Market
+
+## omniaauto-ca on APIs.io
+
+Everything profiled for omniaauto-ca is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/omniaauto-ca/](https://apis.io/providers/omniaauto-ca/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [OmniaAuto API](https://apis.io/apis/omniaauto-ca/omniaauto-api/) — Canadian Vehicle Listings REST API
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Omniaauto Ca Domain Security](https://apis.io/security/omniaauto-ca/omniaauto-ca-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Omniaauto Ca Plans Pricing](https://apis.io/plans/omniaauto-ca/omniaauto-ca-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://omniaauto.ca/)
+- [API reference](https://omniaauto.ca/docs)
+- [Pricing](https://omniaauto.ca/pricing)
+- [Terms of service](https://omniaauto.ca/terms)
+- [Privacy policy](https://omniaauto.ca/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.4** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 32.1 |
+| Contract governance | 16.4 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 60.0 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/omniaauto-ca/](https://apis.io/providers/omniaauto-ca/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for omniaauto-ca: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/omniaauto-ca/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
